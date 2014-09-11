@@ -1,2 +1,2 @@
 //Basic 433Mhz Radio Object 1.0
-code:int
+text:int
