@@ -20,7 +20,7 @@ if len(sys.argv) == 2:
 	else:
 		repeat = 1
 	for x in range(0,repeat):
-		os.system('mpg321 -q '+sound) 
+		os.system('mpg123 -q '+sound) 
 		time.sleep(1.5) #We wait 1.5seconds
 else:
 	print "Wrong Number of Arguments"
