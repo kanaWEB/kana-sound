@@ -1,0 +1,15 @@
+{
+   "description" : "Play mp3 sound on your raspberry pi to notify you",
+   "name" : "Sound notifications",
+   "tags" : {
+      "sound" : {},
+      "mp3" : {},
+      "doorbell" : {},
+      "notification" : {},
+      "trigger" : {},
+      "object" : {},
+      "speakers" : {},
+      "audio" : {}
+   },
+   "type" : "notification"
+}

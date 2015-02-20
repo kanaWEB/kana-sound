@@ -1,0 +1,9 @@
+{
+   "default" : {
+      "args" : {
+         "sound" : {}
+      },
+      "command" : "playsound.py",
+      "usage" : "playsound.py sound"
+   }
+}

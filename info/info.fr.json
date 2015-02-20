@@ -1,0 +1,15 @@
+{
+   "description" : "Jouer des sons MP3 pour vous notifier",
+   "name" : "Notifications sonores",
+   "tags" : {
+      "sound" : {},
+      "mp3" : {},
+      "doorbell" : {},
+      "notification" : {},
+      "trigger" : {},
+      "object" : {},
+      "speakers" : {},
+      "audio" : {}
+   },
+   "type" : "notification"
+}
