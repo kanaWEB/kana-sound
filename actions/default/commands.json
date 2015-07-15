@@ -3,7 +3,7 @@
       "args" : {
          "sound" : {}
       },
-      "command" : "playsound.py",
-      "usage" : "playsound.py sound"
+      "command" : "/usr/bin/mpg123",
+      "usage" : "mpg123 sound"
    }
 }
